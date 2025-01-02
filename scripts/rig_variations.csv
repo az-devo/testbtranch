@@ -1,0 +1,1029 @@
+File,Names Count,Names
+slider.anim_set,0,
+crossfire.anim_set,0,
+pipeline.anim_set,0,
+shooting.anim_set,0,
+sidehoppermap.anim_set,0,
+spiderroom.anim_set,0,
+spires_map.anim_set,0,
+art_blue.anim_set,2,"art_turq, Whole Body"
+art_green.anim_set,4,"art_neon, Whole Body, art_yellow, Whole Body"
+art_orange.anim_set,0,
+art_purple.anim_set,4,"art_pink, Whole Body, art_purple, Whole Body"
+art_red.anim_set,2,"art_red2, Whole Body"
+art_white.anim_set,0,
+ball.anim_set,1,spiderball_gravity
+Chozo_Artifact.anim_set,11,"Strength, Spirit, Truth, Newborn, Elder, Wild, Lifegiver, Warrior, Chozo, Nature, Heaven"
+dark_chest.anim_set,0,
+greenHoloDoor.anim_set,0,
+orangeHoloDoor.anim_set,0,
+redHoloDoor.anim_set,0,
+Mapstation.anim_set,0,
+Mapstation_center.anim_set,1,misslerecharge
+Mapstation_center_cut_up.anim_set,0,
+MetroidCeilingDoor.anim_set,0,
+holoarm.anim_set,0,
+hologram.anim_set,0,
+metroid_door.anim_set,0,
+newmetroiddoor.anim_set,0,
+newmetroiddoor_locked.anim_set,0,
+Morphball_Door.anim_set,0,
+health.anim_set,0,
+100_Health_anim.anim_set,0,
+bomb.anim_set,0,
+CB2.anim_set,0,
+ChargeBeam1.anim_set,0,
+ChargeBeam1_wire.anim_set,0,
+power.anim_set,3,"plasma_combo, wave_combo, ice_combo"
+DoubleJumpBoots.anim_set,0,
+EnergyTank.anim_set,0,
+GrappleBeam.anim_set,0,
+GravitySuit.anim_set,0,
+health.anim_set,0,
+health.anim_set,0,
+high_jump_boots.anim_set,0,
+IceBeam.anim_set,0,
+largehealthicon.anim_set,0,
+Large_health_NEW.anim_set,0,
+Missile_Expansion.anim_set,0,
+Missile_Expansion_wire.anim_set,0,
+Missle_Launcher.anim_set,0,
+Missle_Launcher_NEW.anim_set,0,
+Missle_Launcher_wire.anim_set,0,
+missleicon.anim_set,0,
+Missle_10.anim_set,0,
+Morphball.anim_set,0,
+morphball_1.anim_set,2,"spiderball, spiderball_varia"
+Morphball_wire.anim_set,0,
+visor.anim_set,0,
+PlasmaBeam.anim_set,0,
+powerbomb.anim_set,0,
+powerbomb2.anim_set,0,
+powerbomb_refill.anim_set,0,
+supermissleicon.anim_set,0,
+VariaSuit.anim_set,3,"darksuit, gravitysuit, lightsuit"
+WB1.anim_set,0,
+Savestation.anim_set,0,
+Savestation_cut_up.anim_set,0,
+fan01.anim_set,0,
+fanflat.anim_set,0,
+01_FloatingPlatforms.anim_set,0,
+05_morph_hatch.anim_set,0,
+05_spinner_arm.anim_set,0,
+06_arms.anim_set,0,
+06_stand.anim_set,0,
+door_upper.anim_set,0,
+broken_floor.anim_set,0,
+08_tower_destroyed.anim_set,0,
+09_Pistons.anim_set,0,
+09_ShieldBase.anim_set,0,
+09_ShieldWall.anim_set,0,
+09_ShieldWallTwo.anim_set,0,
+11_holograms.anim_set,0,
+test.anim_set,0,
+11_pump.anim_set,0,
+11_trajectorylines.anim_set,0,
+12_Wall.anim_set,0,
+Glass2.anim_set,0,
+12_wTank.anim_set,0,
+13_machine_1.anim_set,0,
+13_machine_3.anim_set,0,
+thardus_damnrock.anim_set,0,
+chomper_fish.anim_set,0,
+float.anim_set,0,
+metroid.anim_set,0,
+WindMill.anim_set,0,
+converyor_belt.anim_set,0,
+crane.anim_set,0,
+Elev3a.anim_set,0,
+Epod.anim_set,0,
+EpodLift.anim_set,0,
+Flaps.anim_set,0,
+Freightlift.anim_set,0,
+FreightLiftBackDoor.anim_set,0,
+FreightLiftFrontDoor.anim_set,0,
+Intro_boss.anim_set,0,
+Intro_boss_cinBreakthrough.anim_set,0,
+longWire.anim_set,0,
+medWire.anim_set,0,
+palette.anim_set,0,
+PaletteStab.anim_set,0,
+Parasite_1.anim_set,0,
+Parasite_2.anim_set,0,
+Parasite_3.anim_set,0,
+plunger.anim_set,0,
+reacElevator.anim_set,0,
+reacFanlarge.anim_set,0,
+reacFansmall.anim_set,0,
+reactor_core.anim_set,0,
+ShortWire.anim_set,0,
+spiderplatform.anim_set,0,
+StoreRMElev.anim_set,0,
+STRMElevDoor.anim_set,0,
+ventDropdoor.anim_set,0,
+ventRoof.anim_set,0,
+0g_holo.anim_set,0,
+fan.anim_set,0,
+railStart.anim_set,0,
+01_ball_clamp.anim_set,0,
+01hangdoor.anim_set,0,
+01_hangcnct_parasite.anim_set,0,
+01_hc_hatchanim.anim_set,0,
+02_airlockholo.anim_set,0,
+02_circle.anim_set,0,
+02_circle2.anim_set,0,
+02_circle3.anim_set,0,
+02_holo.anim_set,0,
+02_holo2.anim_set,0,
+02_holo3.anim_set,0,
+02hatchdoor.anim_set,0,
+02_floatingglass_1.anim_set,0,
+02_floatingglass_2.anim_set,0,
+02_floatingglass_3.anim_set,0,
+02_mapholo.anim_set,0,
+05_deadboss.anim_set,0,
+05_hatch.anim_set,0,
+5_holoevlevator.anim_set,0,
+Fire_flee.anim_set,0,
+Metaree_alpha.anim_set,0,
+Metaree_Beta.anim_set,0,
+New_parasite.anim_set,0,
+parasite.anim_set,0,
+sova.anim_set,0,
+warwasp.anim_set,0,
+zoomer.anim_set,0,
+06_holoball.anim_set,0,
+07_Intro_GiantDoorHolo.anim_set,0,
+07GiantDoor.anim_set,0,
+08_FloatingDebrisL.anim_set,0,
+08_FloatingDebrisM.anim_set,0,
+08FloatingDebrisS.anim_set,0,
+3aElevatorBall.anim_set,0,
+3aElevatorBallBack.anim_set,0,
+3_holo_elevator.anim_set,0,
+4_SpecimenTank.anim_set,0,
+conveyor.anim_set,0,
+Elevdoor.anim_set,0,
+freight_holo.anim_set,0,
+freightlift_entry.anim_set,0,
+freightlift_exit.anim_set,0,
+fullpaddle_hangar.anim_set,0,
+halfpaddle_hangar.anim_set,0,
+hologram1.anim_set,0,
+hologram2.anim_set,0,
+hologram3.anim_set,0,
+lineholo.anim_set,0,
+skinnyholo.anim_set,0,
+bluehologram.anim_set,0,
+Scanholo.anim_set,0,
+Scanholo2.anim_set,0,
+Scanholo3.anim_set,0,
+ventdropdoor.anim_set,0,
+ventroof.anim_set,0,
+ventshaftdoor.anim_set,0,
+glass.anim_set,0,
+glass2.anim_set,0,
+block1.anim_set,0,
+block2.anim_set,0,
+block3.anim_set,0,
+thermalDoorIcon_anim.anim_set,0,
+flotating_pirate01_move.anim_set,0,
+elevatorDoor_open.anim_set,0,
+plat.anim_set,0,
+platBig.anim_set,0,
+00h_Fan.anim_set,0,
+gearspin.anim_set,0,
+01Crane.anim_set,0,
+plowspin.anim_set,0,
+spinspin.anim_set,0,
+tickspin.anim_set,0,
+turbspin.anim_set,0,
+plow_spin.anim_set,0,
+spinners.anim_set,0,
+turb.anim_set,0,
+gear01.anim_set,0,
+gear02.anim_set,0,
+pike.anim_set,0,
+pull.anim_set,0,
+12_PhasonNUBB.anim_set,0,
+laser_canon.anim_set,0,
+omega_death.anim_set,0,
+phason_crack.anim_set,0,
+PirateDoor.anim_set,0,
+00f_Fan.anim_set,0,
+00j_over_hall_holo.anim_set,0,
+04_spinner_bars.anim_set,0,
+spinner.anim_set,0,
+07GiantDoor.anim_set,0,
+07_pillar1.anim_set,0,
+07_pillar2.anim_set,0,
+07_pillar3.anim_set,0,
+09bridge.anim_set,0,
+09dipper.anim_set,0,
+dipper.anim_set,0,
+09spinner.anim_set,0,
+slider.anim_set,0,
+lavamachine.anim_set,0,
+10_LavaPiston.anim_set,0,
+12_fieryfan.anim_set,0,
+12_spew.anim_set,0,
+12_spew02.anim_set,0,
+lavaspew01.anim_set,0,
+lavaspew02.anim_set,0,
+ceiling.anim_set,0,
+exitPlat.anim_set,0,
+pipe.anim_set,0,
+platHi.anim_set,0,
+platLow.anim_set,0,
+platMid.anim_set,0,
+ventshaftdoor.anim_set,0,
+0t_piston1.anim_set,0,
+0v_gate.anim_set,0,
+0v_bottomblock.anim_set,0,
+gate.anim_set,0,
+gateCenter.anim_set,0,
+gateOnly.anim_set,0,
+gateTop.anim_set,0,
+Shaft_Fan_anim.anim_set,0,
+14_tl_base_water.anim_set,0,
+15_core_anim.anim_set,0,
+17grateclose.anim_set,0,
+17gratefinal.anim_set,0,
+17_ms.anim_set,0,
+18_spiderTrack.anim_set,0,
+19_newblocks.anim_set,0,
+19_RoofBridge1.anim_set,0,
+19_RoofBridge2_bound.anim_set,0,
+19_RoofBridge2_bp_bound.anim_set,0,
+fans.anim_set,0,
+fan_1anim2.anim_set,0,
+flags.anim_set,0,
+flag_1_anim.anim_set,0,
+20_rp_scanobject.anim_set,0,
+20_water.anim_set,0,
+morphball_slot_teeth.anim_set,0,
+22_flaag_disks.anim_set,0,
+3_monkeyEye.anim_set,0,
+3_monkeyFlameThrower.anim_set,0,
+monkeystand.anim_set,1,Node2
+monkeystand2.anim_set,0,
+monkeystandP.anim_set,0,
+4_gate1.anim_set,0,
+4_gate2.anim_set,0,
+4_gateKey.anim_set,0,
+7_ball.anim_set,0,
+7_ring.anim_set,0,
+7_pipe.anim_set,0,
+7_flag.anim_set,0,
+7_spidertrack.anim_set,0,
+bomb_weed.anim_set,1,bomb_weed
+bustout_1.anim_set,0,
+bustout_2.anim_set,0,
+bustout_3.anim_set,0,
+bustupground.anim_set,0,
+chozo_statue.anim_set,0,
+chubb_weed.anim_set,0,
+chubb_weed2.anim_set,1,phasonchubbweed
+test.anim_set,0,
+elevator_top.anim_set,0,
+eyeball.anim_set,0,
+flag.anim_set,0,
+hive_totem.anim_set,0,
+Lpad1.anim_set,0,
+0u_piston.anim_set,0,
+new_parasite_lizard.anim_set,0,
+parasite_lizard.anim_set,0,
+parasite_lizard_fast.anim_set,0,
+HologramElevator.anim_set,0,
+seaweed.anim_set,0,
+Ready_1.anim_set,0,
+Snake_Weed.anim_set,0,
+Snake_Weed_RED.anim_set,0,
+randomtest.anim_set,0,
+trilobite.anim_set,0,
+tweety.anim_set,0,
+water.anim_set,0,
+rock1.anim_set,0,
+rock2.anim_set,0,
+rock3.anim_set,0,
+rock4.anim_set,0,
+weed.anim_set,0,
+cliffside_contraption.anim_set,0,
+atomic_alpha.anim_set,2,"Atomic_Alpha_Invisible, Atomic_Crystal"
+atomic_alpha_logbook.anim_set,2,"Atomic_Alpha_Invisible, Atomic_Crystal"
+atomic_beta.anim_set,1,dark_atomic_beta
+atomic_beta_logbook.anim_set,1,dark_atomic_beta
+Baby_metroid.anim_set,0,
+Baby_metroid_logbook.anim_set,0,
+bladepod.anim_set,0,
+bladepod_logbook.anim_set,0,
+Blogg.anim_set,3,"bloggette, dark_blogg, mega_blogg"
+Blogg_logbook.anim_set,3,"bloggette, dark_blogg, mega_blogg"
+Brizgee.anim_set,1,Brizgee_light
+Brizgee_logbook.anim_set,1,Brizgee_light
+Chozo_Ghost.anim_set,0,
+cliff_spider.anim_set,0,
+cliff_spider_logbook.anim_set,0,
+crystallite.anim_set,0,
+Crystallit_new.anim_set,0,
+Crystallit_new_logbook.anim_set,0,
+dark_memory.anim_set,1,Lowres
+dark_memory_logbook.anim_set,1,Lowres
+01_cliff_destroy_bridge.anim_set,0,
+08_grapple_guardian.anim_set,0,
+Crash_Glass_0M_Sand_Hall.anim_set,0,
+Dark_Samus.anim_set,2,"Battle_2, Battle_3"
+Dark_Samus_2_Intro_DS.anim_set,1,Shield
+Dark_Samus_3_Death_DS.anim_set,2,"Dark_Samus_Form_2, Shield"
+Dark_Samus_3_Intro_DS.anim_set,1,Dark_Samus_Form_2
+Dark_Samus_Battle_2.anim_set,0,
+Dark_Samus_FIRST.anim_set,0,
+Dark_Samus_interStage_1.anim_set,0,
+Dark_Samus_Intro_Battle_1_Dark_Samus.anim_set,1,Shield_Aura
+Dark_Samus_Intro_Battle_1_Death.anim_set,1,Shield
+Dark_Samus_logbook.anim_set,2,"Battle_2, Battle_3"
+Dark_Samus_MorphBall.anim_set,0,
+DS_Appears_PT1_DS.anim_set,0,
+DS_Appears_PT2_DS.anim_set,0,
+OI_Cliff_Hall.anim_set,0,
+Dark_Trooper.anim_set,1,light
+Dark_Trooper_logbook.anim_set,2,"light, missle_trooper"
+missle_trooper.anim_set,0,
+TrooperFlotsam.anim_set,1,TrooperFlotsamGalactic
+TrooperFlotsamGalactic.anim_set,0,
+additive_translation_test.anim_set,0,
+Death_eye.anim_set,0,
+Death_eye_logbook.anim_set,0,
+DigitalGuardian_bound.anim_set,0,
+DigitalGuardian_bound_logbook.anim_set,0,
+DigitalGuardian_bound_logbook2.anim_set,0,
+DigitalGuardian_Cinematics.anim_set,0,
+DigitalGuardian_deathpose_logbook.anim_set,0,
+DigitalGuardian_deathpose_logbook2.anim_set,0,
+DigitalGuardian_Death_Head.anim_set,0,
+DigitalGuardian_Head_bound.anim_set,0,
+DigitalGuardian_Head_bound_logbook.anim_set,0,
+DigitalGuardian_Interstage1.anim_set,0,
+DigitalGuardian_Interstage_Head.anim_set,0,
+Interstage_s_04_head.anim_set,0,
+antenna_bound.anim_set,0,
+digital_scrubber.anim_set,0,
+digital_scrubber_logbook.anim_set,0,
+Elite_Grenade_Launcher.anim_set,1,Dark_Elite_Grenade_Launcher
+Elite_Space_Pirate.anim_set,1,dark_elite
+Elite_Space_Pirate_Inactive.anim_set,2,"dark_elite, elite_no_glow"
+Elite_Space_Pirate_logbook.anim_set,1,dark_elite
+base_bound.anim_set,0,
+base_bound_logbook.anim_set,0,
+FinalBoss_Intro_Tent.anim_set,0,
+Final_Boss_Intro_2_base.anim_set,0,
+Final_Boss_Intro_2_sphere.anim_set,0,
+eight_tentacles.anim_set,0,
+eight_tentacles_logbook.anim_set,0,
+Final_Boss_Intro_2_4_tentacles.anim_set,0,
+Final_Boss_Intro_2_Shot_6_4_tentacles.anim_set,0,
+heart_shield.anim_set,0,
+logbook_heart.anim_set,0,
+Final_Boss_Intro_2_Sphere.anim_set,0,
+sphere_bound.anim_set,0,
+sphere_bound_logbook.anim_set,0,
+Sphere_Interstage_1_2.anim_set,0,
+tentacle_tip_bound.anim_set,0,
+stage_02_hole_bound.anim_set,0,
+stage_02_tentacle_bound.anim_set,0,
+cin_2nd_interchange_stage_03.anim_set,0,
+Final_Boss_Death_Cinematic.anim_set,0,
+stage_03_bound.anim_set,0,
+stage_03_bound_logbook.anim_set,0,
+eyeon.anim_set,0,
+wall_walker.anim_set,0,
+fire_flea.anim_set,0,
+fire_flea_logbook.anim_set,0,
+Flesh_eater_Swarm.anim_set,1,Jack
+Flesh_eater_Swarm_logbook.anim_set,0,
+Flyer_Swarm.anim_set,1,darkflyer
+Flyer_Swarm_logbook.anim_set,1,darkflyer
+flying_pirate.anim_set,0,
+flying_pirate_logbook.anim_set,0,
+glowbug.anim_set,0,
+glowbug_logbook.anim_set,0,
+Grapple_guardian.anim_set,1,Guardian_no_tail
+Grapple_guardian_logbook.anim_set,0,
+Grenchler.anim_set,3,"no_tail_temp, dark_grencherl, no_tail_dark_tail"
+Grenchler_logbook.anim_set,1,dark_grencherl
+grenchler_waterdeathvariant.anim_set,3,"no_tail_temp, dark_grencherl, no_tail_dark_tail"
+grenchlers_tail.anim_set,2,"grenchler_guardian_tail, dark_tail"
+grenchlers_tail_waterdeathvariant.anim_set,2,"grenchler_guardian_tail, dark_tail"
+turretgun_top_bound.anim_set,2,"SP_Turret, luminoth"
+turretgun_top_bound_alt_pirate_charge.anim_set,2,"SP_Turret, luminoth"
+turretgun_top_bound_logbook.anim_set,0,
+turret_base_bound.anim_set,2,"SP_Base, luminoth"
+turret_base_bound_logbook.anim_set,2,"luminoth, spacepirate"
+hellcrate.anim_set,0,
+hellcrate_logbook.anim_set,0,
+hellcrate_dark.anim_set,1,hellcrate_light
+hellcrate_dark_logbook.anim_set,1,hellcrate_light
+ice_sheegoth.anim_set,1,BabyGoth
+IngPuddle.anim_set,0,
+12_Temple_FinalGateDark.anim_set,0,
+12_Temple_FinalGate_ing_legs_s_23.anim_set,0,
+12_Temple_FinalGate_pages_1_5_ing.anim_set,0,
+darktest.anim_set,0,
+Ings.anim_set,2,"IngSpaceJumpGuardian, IngBoostBallGuardian"
+Ings_logbook.anim_set,1,guardian
+Ing_DarkSamusAppearsCinema.anim_set,0,
+Ing_LuminothMeeting_01_Cinema.anim_set,0,
+Ing_LuminothMeeting_Cinema.anim_set,0,
+Ing_Mark_Test.anim_set,2,"IngSpaceJumpGuardian, IngBoostBallGuardian"
+Ing_Snatch_Cinematic.anim_set,0,
+ingSwarm.anim_set,0,
+ingSwarm_logbook.anim_set,0,
+IngSwarmPuddle.anim_set,0,
+IngSwarmPuddle_logbook.anim_set,0,
+ing_Hud.anim_set,0,
+ing_Hud2.anim_set,0,
+Kralee.anim_set,1,kralee_green
+Kralee_logbook.anim_set,1,kralee_green
+krokus_bound.anim_set,0,
+krokus_bound_logbook.anim_set,0,
+Cliffside_Luminoth_Hologram_Tweener.anim_set,0,
+Cliffside_Luminoth_Meeting.anim_set,1,Hologram
+Game_End_Cinematic_Page_9_to_11_Luminoth.anim_set,0,
+Generic_Dialogue_Luminoth.anim_set,1,Luminoth_KeyMaster
+Light_Suit_Attainment_Intro_Luminoth.anim_set,0,
+Luminoth.anim_set,1,luminoth_hologram
+Luminoth_logbook.anim_set,1,luminoth_hologram
+Returnes_GeneratorPower_LightWorld_LE_Luminoth.anim_set,2,"Swamplands, Cliffside"
+Returns_GeneratorPower_LightWorld_HUB_Lum.anim_set,0,
+Sandlands_Luminoth_Hologram_Tweener.anim_set,0,
+Sandland_Luminoth_Meeting_Luminoth.anim_set,0,
+swamplands_Luminoth_Hologram_Tweener.anim_set,0,
+Swampland_Lumintoh_Meeting_Lum.anim_set,0,
+Tmpl_Lum_Mtg_1_Luminoth.anim_set,0,
+Tmpl_Lum_Mtg_2_Luminoth.anim_set,0,
+Tmpl_Lum_Mtg_3_Luminoth.anim_set,0,
+lumite_bound.anim_set,0,
+lumite_bound_logbook.anim_set,0,
+Medium_Ing.anim_set,0,
+Medium_Ing_logboook.anim_set,0,
+Medium_Ing_Tent_Bound.anim_set,0,
+testtent.anim_set,0,
+alpha_metaree.anim_set,2,"ice_metaree, Ruins_Metaree"
+Copy of alpha_metaree.anim_set,2,"ice_metaree, Ruins_Metaree"
+Metaree_New.anim_set,1,metaree_dark
+Metaree_New_logbook.anim_set,1,metaree_dark
+Metaree_Variant.anim_set,0,
+Metaree_Variant_logbook.anim_set,0,
+Metroid_Bound.anim_set,1,dark_metroid
+Metroid_Bound_logbook.anim_set,1,darkmetroid
+Mine.anim_set,1,Mine_nolegs
+Mine_logbook.anim_set,1,Mine_nolegs
+minor_ing.anim_set,0,
+minor_ing_logbook.anim_set,1,BoostBallGuardian
+moth.anim_set,0,
+moth_logbook.anim_set,0,
+Octopede_Bound.anim_set,0,
+Octopede_Bound_logbook.anim_set,0,
+parasite_new.anim_set,0,
+pill_bug.anim_set,1,pill_bug_guardian
+pill_bug_logbook.anim_set,1,pill_bug_guardian
+plant_scarab_swarm.anim_set,0,
+plant_scarab_swarm_logbook.anim_set,0,
+puddle_spore_alpha.anim_set,1,Dark_PuddleSpore
+puddle_spore_alpha_logbook.anim_set,1,Dark_PuddleSpore
+puddle_toad_gamma.anim_set,0,
+DarkPuffer.anim_set,0,
+DarkPuffer_logbook.anim_set,0,
+Puffer.anim_set,1,metal_puffer
+Puffer_logbook.anim_set,1,metal_puffer
+Rezbit_anim.anim_set,0,
+Copy of Rezbit.anim_set,1,noHolo
+Rezbit.anim_set,1,noHolo
+Rezbit_logbook.anim_set,1,noHolo
+Intro_Level_CINE.anim_set,0,
+Intro_Level_CINE_downToPlanet.anim_set,0,
+L_missles.anim_set,0,
+Ridley_bound.anim_set,0,
+ridley_over_death.anim_set,0,
+ridley_over_intro.anim_set,0,
+ridley_SNOW.anim_set,0,
+R_missles.anim_set,0,
+Shadow_pass.anim_set,0,
+ripper_bound.anim_set,1,ripper_beta_bound
+GTrooper_LastStand_Cinematic_Trooper.anim_set,0,
+GTrooper_LastStand_s_05B_Trooper.anim_set,0,
+SnapShots.anim_set,0,
+Trooper_MainDeadDude_05Temple.anim_set,0,
+Trooper_Talks_Cinematic_GF.anim_set,1,TrooperWithFace
+Trooper_Talks_Cinematic_s_05B_GF.anim_set,0,
+Samus_Face.anim_set,0,
+01_Cliffside_Entance_Reveal.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+01_sand_world_reveal.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+08_Swamp_GrappleGuardian_Dark.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+12_Temple_FinalGate.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+12_Temple_FinalGate_Dark_Samus_pages_1_5.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+12_Temple_FinalGate_Samus_pages_6_7.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+12_Temple_FinalGate_Samus_page_13.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Cliffside_Boss_Death_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Cliffside_Boss_Interstage1_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Cliffside_Boss_Intro.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Cliffside_Luminoth_Meeting.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_2_Intro_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_3_Death_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_3_Intro_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_Battle_1_Death_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_Battle_2_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_interStage_1_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Samus_Intro_Battle_1_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Dark_Suit_Attainment_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+DS_Appears_PT1_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+DS_Appears_PT2_Light_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+DS_Appears_PT2_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+FinalBoss_Intro_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Final_Boss_Death_Cinematic_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Final_Boss_Intro_2_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Final_Boss_Stage2to3.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Game_End_Cinematic_Page_9_to_11_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+GTrooper_LastStand_Cinematic_Samus.anim_set,5,"SamusDark, SamusLight, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Hive_Drop_Down.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Hive_Drop_Down_Mark.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+interchange_2nd_stage3_cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Light_Suit_Attainment_Intro_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Light_Suit_Attainment_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+log_book_animation.anim_set,10,"Samus_Dark, Samus_Dark_bottom, Samus_Light, Samus_Light_bottom, EmptySuit, Samus_Light_Off, Samus_Light_OFF_bottom, Samus_Dark_Gravity, Samus_Dark_Gravity_bottom, Samus_Varia_bottom"
+Recieving_Generator_Key_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Returns_GeneratorPower_DE_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Returns_GeneratorPower_LE_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Lights_Off, Samus_Dark_Gravity"
+Samus_0a_Temple_DropDown.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Ammo_RechargeStation_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_death_sandboss_cinematic.anim_set,0,
+samus_Elevator_Cinema.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_DOWN_BEGIN.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_DOWN_END.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_DOWN_MID.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_First.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_UP_BEGIN.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_UP_END.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Elevator_Cinema_UP_MID.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Generic_Reveal.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Grapple_beam_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, Empty_Suit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_GravityBoost_cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Gun_Attainment_Cinema.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Ing_Snatching_Temple.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Intro_sandboss_cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_MapStation_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_MissleRechargeAttainment_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Missle_seekerAttainment_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Missle_Super_Attainment_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_morphball_cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Samus_Opening_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Portal_cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_Portal_cinematic_FIRST.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Samus_ready_only.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_SaveStation_Cinema.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Samus_Screw_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+samus_VisorAttainment_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Sandboss_death_cinemtaic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Sandland_Luminoth_Meeting.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Shaft_Drop_Down_Zoid.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Ship_Savestation_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Slide_Test.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Space_Jump_Attainment_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Space_Jump_Attainment_Cinematic2.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Space_Jump_Attainment_Cinematic3.anim_set,4,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off"
+Space_Jump_Attainment_Cinematic4.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Space_Jump_Attainment_Cinematic5.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+SwampBoss_Death_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+SwampBoss_Intro_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Swampland_Luminoth_Meeting_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+TeleportStation_Cinematic.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+TeleportStation_InsideTeleport.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Teleport_CutScene_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Tmp_Lum_Mtg_1_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Tmp_Lum_Mtg_2_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Tmp_Lum_Mtg_3_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Trooper_Talks_Cinematic_Samus.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+0M_samus_cinema.anim_set,5,"Samus_Dark, Samus_Light, EmptySuit, Samus_Light_Off, Samus_Dark_Gravity"
+Samus_Low_Res.anim_set,3,"Samus_Low_Res_MED, Samus_Low_Res_LOW, Samus_SinglePlayer"
+Samus_MultiPlayer_Win_Lose.anim_set,3,"Samus_Low_Res_MED, Samus_Low_Res_LOW, Samus_SinglePlayer"
+common.anim_set,0,
+missleRechargeAttain.anim_set,0,
+visorAttain.anim_set,0,
+weaponAttain.anim_set,0,
+ice.anim_set,1,Holo
+ice_lowres.anim_set,1,Holo
+leftArm.anim_set,9,"Gravity, Varia, Phazon, Fusion, FusionG, FusionV, FusionP, Skeleton, Multi_lowRes"
+leftArm_enterPortalCinematic.anim_set,0,
+leftArm_lowres.anim_set,8,"Gravity, Varia, Phazon, Fusion, FusionG, FusionV, FusionP, Skeleton"
+leftArm_lowres_new.anim_set,5,"Power, Dark, Light, Annihilator, All"
+leftarm_new.anim_set,5,"Power, Dark, Light, Annihilator, All"
+gunbox.anim_set,0,
+phazon.anim_set,1,Holo
+phazon_lowres.anim_set,1,Holo
+plasma.anim_set,1,Holo
+plasma_lowres.anim_set,1,Holo
+power.anim_set,1,Holo
+power_lowres.anim_set,1,Holo
+rightHand.anim_set,0,
+wave.anim_set,1,Holo
+wave_lowres.anim_set,1,Holo
+12_Temple_FinalGate_LightBall.anim_set,0,
+logbook_balls.anim_set,2,"boost_ball, spider_ball"
+Morphball_Cinematic.anim_set,4,"Samus_Darkball, Samus_Darkball_Boost, Samus_Darkball_Spider, Samus_Lighball"
+samus_ball_new.anim_set,1,Low
+VariaBall_New_LowRez_LS_bound.anim_set,0,
+Cliffside_spider_ball.anim_set,0,
+samus_phazon_ball.anim_set,0,
+samus_spider_ball.anim_set,2,"Glass, Low"
+12_Temple_FinalGate_Samus_page_13.anim_set,0,
+samus_logbook.anim_set,10,"Samus_Dark, Samus_Dark_bottom, Samus_Light, Samus_Light_bottom, EmptySuit, Samus_Light_Off, Samus_Light_OFF_bottom, Samus_Dark_Gravity, Samus_Dark_Gravity_bottom, Samus_Varia_bottom"
+Samus_Multi.anim_set,2,"Samus_Multi_Med, Samus_Multi_Low"
+SamusShip_12_Temple_FinalGate_page14.anim_set,0,
+SamusShip_12_Temple_FinalGate_page15.anim_set,0,
+SamusShip_OpeningCinema.anim_set,0,
+Samus_Ship.anim_set,0,
+Samus_Ship_Savestation_Cinematic.anim_set,0,
+sandboss_logbook.anim_set,0,
+sandboss_softshell_logbook.anim_set,0,
+sandworm_bound.anim_set,1,boss
+sandworm_bound_logbook.anim_set,1,boss
+sandworm_death_only.anim_set,0,
+sandworm_small_bound.anim_set,0,
+sand_bat.anim_set,0,
+sand_bat_logbook.anim_set,0,
+Intro_Sandboss_cinematic.anim_set,0,
+Sand_Boss_bound.anim_set,1,sandboss_with_tail
+arm_test.anim_set,0,
+elite_scale_test.anim_set,0,
+scale_test.anim_set,0,
+Shredder_Bound.anim_set,1,dark_shredder
+Shredder_Bound_logbook.anim_set,1,dark_shredder
+shriek_leaf_1.anim_set,0,
+shriek_leaf_2.anim_set,0,
+shriek_leaf_3.anim_set,0,
+skiff_logbook.anim_set,0,
+Slug_ParasiteSwarm.anim_set,0,
+Slug_ParasiteSwarm_logbook.anim_set,0,
+Snake_Weed_New.anim_set,0,
+Snake_Weed_New_logbook.anim_set,0,
+dark_commando_pirate.anim_set,0,
+SpacePirateFlotsam.anim_set,1,CommandoFlotsam
+space_pirate.anim_set,3,"spacepirate, commando_pirate, darkpirate"
+space_pirate_logbook.anim_set,3,"darkpirate, commando, lightcommando"
+space_pirate_wisp_grab.anim_set,0,
+commando_07.anim_set,0,
+commando_07_cinemas.anim_set,1,spacepirate
+Space_Pirate_Standard.anim_set,1,Space_Pirate_Standard_DARK
+space_pirate_test.anim_set,3,"spacepirate, commando_pirate, darkpirate"
+SpikeUrchin.anim_set,0,
+SpikeUrchin_logbook.anim_set,0,
+Dark_Splinter_Hologram.anim_set,0,
+Ing_Snatching_DropString.anim_set,0,
+Ing_Snatching_Splinter.anim_set,1,Dark_Splinter
+megasplinter_bound.anim_set,1,dark_splinter
+Receiving_Generator_Key_Splinter.anim_set,0,
+splinter_bound.anim_set,3,"dark_splinter, Worker_Splinter, snatchable"
+splinter_bound_logbook.anim_set,2,"dark_splinter, Worker_Splinter"
+splinter_dropstring.anim_set,0,
+splinter_LastStand_CINEMATIC.anim_set,2,"dark_splinter, lowpolysplinter"
+worker_splinter.anim_set,0,
+Cliffside_Luminoth_Meeting_splitter.anim_set,0,
+Splitter_body.anim_set,2,"DarkSplitter, SnatchableSplitter"
+Splitter_body_logbook.anim_set,1,dark
+Splitter_Head_Bound.anim_set,1,DarkSplitter_Head
+Splitter_Head_Bound_logbook.anim_set,1,dark
+SporbBase.anim_set,2,"INGsporb_Base, Sporb_Guardian_Base"
+SporbBase_logbook.anim_set,1,guardian
+Sporb_Projectile.anim_set,1,Sporb_Guardian_Projectile
+Sporb_Top.anim_set,2,"INGsporb_Top, Sporb_Guardian_Top"
+Sporb_Top_logbook.anim_set,1,guardian
+sporb_logbook.anim_set,2,"ing_sporb, guardian"
+spore_scarab.anim_set,0,
+spore_scarab_logbook.anim_set,0,
+stone_toad.anim_set,0,
+stone_toad_logbook.anim_set,0,
+SwampBossLarva.anim_set,0,
+SwampBossLarva_logbook.anim_set,0,
+SwampBoss_Death.anim_set,0,
+SwampBoss_Inter_Stage.anim_set,0,
+SwampBoss_Intro.anim_set,0,
+SwampBoss_Intro.anim_set,0,
+SwampBossWasp.anim_set,0,
+SwampBossWasp_Death_Pose.anim_set,0,
+SwampBossWasp_Inter_Stage.anim_set,0,
+SwampBossWasp_logbook.anim_set,1,dark
+swamp_boss_swarm.anim_set,0,
+swamp_boss_swarm_logbook.anim_set,0,
+Swimmer_Swarm.anim_set,0,
+Swirl_ParasiteSwarm.anim_set,0,
+Swirl_ParasiteSwarm_logbook.anim_set,0,
+tentacle_bound.anim_set,0,
+Torobyte.anim_set,0,
+Torobyte_logbook.anim_set,0,
+tryclops.anim_set,1,Tryclops_new
+tryclops_logbook.anim_set,1,Tryclops_new
+un_shriek.anim_set,0,
+un_shriek_logbook.anim_set,0,
+wall_walker.anim_set,1,wall_walker_cliff
+wall_walker_logbook.anim_set,1,wall_walker_cliff
+war_wasp.anim_set,1,DarkWasp
+war_wasp_logbook.anim_set,1,dark
+webbing.anim_set,0,
+wisp_pirate_trap.anim_set,0,
+wisp_tentacle.anim_set,0,
+wisp_tentacle_logbook.anim_set,0,
+Yazik.anim_set,0,
+Yazik_logbook.anim_set,0,
+zoomer.anim_set,4,"SkraShell, Zoomer, Grisby, Crystallite"
+zoomer_logbook.anim_set,4,"SkraShell, Zoomer, Grisby, Crystallite"
+elevatorShaft.anim_set,0,
+tenticles.anim_set,0,
+tenticles_DownBottom.anim_set,0,
+tenticles_DownTop.anim_set,0,
+tenticles_UpTop.anim_set,0,
+ceilingChunks.anim_set,0,
+holoPlatform.anim_set,1,lightBeams
+Samus_SpaceJump_Boots.anim_set,0,
+war_wasp.anim_set,0,
+IngSpo.anim_set,0,
+Samus_low_res.anim_set,3,"Samus_Low_Res_MED, Samus_Low_Res_LOW, Samus_SinglePlayer"
+Ings.anim_set,0,
+gunAttain.anim_set,0,
+ingSpotTest.anim_set,0,
+piratetest.anim_set,2,"spacepirate, commando_pirate"
+Grass_01.anim_set,0,
+Grass_02.anim_set,0,
+Grass_03.anim_set,0,
+BadSpawnSystem.anim_set,3,"Samus_Dark, Samus_Light, EmptySuit"
+Crystallite.anim_set,0,
+metaree.anim_set,0,
+arm_test.anim_set,9,"Gravity, Varia, Phazon, Fusion, FusionG, FusionV, FusionP, Skeleton, Multi_lowRes"
+beetle_test.anim_set,2,"gar_beetle_ALPHA, snow_beetle"
+dark_samus_test.anim_set,0,
+flying_pirate_test.anim_set,0,
+glowbug_test.anim_set,0,
+pirate_test.anim_set,2,"spacepirate, commando_pirate"
+splinter_test.anim_set,1,dark_splinter
+sporb_base_test.anim_set,0,
+tentacle_test.anim_set,0,
+test.anim_set,0,
+test_fire_flea.anim_set,0,
+alpha_drone.anim_set,0,
+cube.anim_set,0,
+sandworm_scale_bug.anim_set,0,
+RippleBand_Bound.anim_set,0,
+default_slider_frtend.anim_set,0,
+slider_friend.anim_set,0,
+rift_portal.anim_set,0,
+rift_portal_glow.anim_set,0,
+rift_portal_glow_2.anim_set,0,
+rfit_portal_simple.anim_set,0,
+gas_platform.anim_set,0,
+shaft_drills.anim_set,0,
+shaft_pillar.anim_set,0,
+laser_contraption.anim_set,0,
+turret_full.anim_set,0,
+turret_ball_anim.anim_set,0,
+ball_full.anim_set,0,
+cannonblast2.anim_set,0,
+cannonblast.anim_set,0,
+RechargeStation.anim_set,0,
+onewaymorph.anim_set,0,
+doorKey1.anim_set,0,
+doorKey2.anim_set,0,
+doorKey3.anim_set,0,
+Encrustation.anim_set,1,Encrustation_IceVault
+coinPickup.anim_set,0,
+death_collector.anim_set,0,
+death_collector_textured.anim_set,0,
+upgrade.anim_set,0,
+dropdown_door.anim_set,0,
+morphball_door.anim_set,0,
+01_Bridge.anim_set,0,
+L_Bridge_Endpiece_Bound.anim_set,0,
+L_Main_Bridge.anim_set,0,
+R_Bridge_Endpiece_Bound.anim_set,0,
+R_Main_Bridge.anim_set,0,
+elev_holo.anim_set,0,
+02_blastdoor.anim_set,0,
+02_tank_arm.anim_set,0,
+04_contraptionArm.anim_set,0,
+04_MechArm.anim_set,0,
+05_cage.anim_set,0,
+05_floatingPlatform.anim_set,0,
+06_magleft.anim_set,0,
+06_magright.anim_set,0,
+06_magright_NEW.anim_set,0,
+06_pistons.anim_set,0,
+06_pistons2.anim_set,0,
+BombDoor.anim_set,0,
+holo.anim_set,0,
+GateAnim.anim_set,0,
+RotatingPiece.anim_set,0,
+elev_Hologram_anim.anim_set,0,
+09_cliff_props.anim_set,0,
+0a_magnet.anim_set,0,
+gyroScanPost.anim_set,0,
+0e_cosmicwonder1.anim_set,0,
+0e_cosmicwonder2.anim_set,0,
+0e_cosmicwondermain.anim_set,0,
+0e_grinder.anim_set,0,
+0e_knob.anim_set,0,
+0e_piston.anim_set,0,
+0e_rotar.anim_set,0,
+holo.anim_set,0,
+0g_door.anim_set,0,
+03_keydoor.anim_set,1,newdoor
+0g_keydoor.anim_set,0,
+pumpit.anim_set,0,
+0i_door.anim_set,0,
+0i_fan.anim_set,0,
+holo_elev.anim_set,0,
+0K_blender.anim_set,0,
+0K_tumbler.anim_set,0,
+0K_wire.anim_set,0,
+hologram.anim_set,0,
+hologram2.anim_set,0,
+RotatingPiece.anim_set,0,
+saveholder.anim_set,0,
+ammoRechargeStation.anim_set,0,
+ammoRechargeStation_holo.anim_set,0,
+animSet.anim_set,0,
+crystal.anim_set,0,
+IngBreather.anim_set,1,PhazonColored
+PiggyPlant.anim_set,0,
+PiggyPlant_logbook.anim_set,0,
+dark_webbing_blockade.anim_set,0,
+elevatorLock.anim_set,0,
+Elevator_Cage_Up_anim.anim_set,0,
+lightbeam_elev_holo.anim_set,0,
+world_elevator.anim_set,0,
+Trooper_Talks_Cinematic_External_FedShip.anim_set,0,
+Trooper_Talks_Cinematic_FedShip.anim_set,0,
+gbutton_anim.anim_set,0,
+gbutton_animLeft.anim_set,0,
+Game_End_Page_9_to_11.anim_set,0,
+New_Generator.anim_set,0,
+08_Temple_SunGenerator_Dark_Generator.anim_set,0,
+luminoth_talk.anim_set,3,"cliff, temple, Node4"
+teleport_holo.anim_set,0,
+IngSmasher_Device.anim_set,0,
+Blocker.anim_set,0,
+Luminoth_lore.anim_set,0,
+metroid_door.anim_set,0,
+metroid_lock.anim_set,0,
+morphballDoor_Square.anim_set,0,
+morphcannon.anim_set,0,
+mothdarkanim.anim_set,0,
+mbutton_anim.anim_set,0,
+annihilatorbeam.anim_set,0,
+chargebeam.anim_set,0,
+darkbeam.anim_set,0,
+darkburst.anim_set,0,
+annihilator_beam.anim_set,0,
+annihilator_beam_noParticle.anim_set,0,
+ball_boost.anim_set,0,
+ball_dark.anim_set,0,
+ball_light.anim_set,0,
+ball_spider.anim_set,0,
+ball_varia.anim_set,0,
+beamAmmoExpansion.anim_set,0,
+bomb.anim_set,0,
+coinChestMulti.anim_set,0,
+darkbeam.anim_set,0,
+darkbeam_noParticle.anim_set,0,
+darkburst.anim_set,0,
+dark_ammo.anim_set,2,"dark_ammo_small, dark_ammo_30"
+energyTank.anim_set,0,
+fivecoin.anim_set,0,
+GF_trooperLogo.anim_set,0,
+grappleBeam.anim_set,0,
+gravityBoost.anim_set,0,
+health_blue.anim_set,0,
+imploder.anim_set,0,
+large_health.anim_set,1,blue_large_health
+large_health100.anim_set,0,
+lightbeam.anim_set,0,
+lightbeam_noParticle.anim_set,0,
+lightBlast.anim_set,0,
+light_ammo.anim_set,2,"light_ammo_small, light_ammo_30"
+missile.anim_set,1,missile10
+missileExpansion.anim_set,0,
+missile_launcher.anim_set,0,
+onecoin.anim_set,0,
+powerbeam.anim_set,0,
+powerbomb.anim_set,0,
+powerBombExpansion.anim_set,0,
+powerBombExpansion_Multiplayer.anim_set,0,
+powerBomb_new.anim_set,0,
+powerBomb_new_ammo.anim_set,0,
+screwAttack.anim_set,0,
+seekerMissileLauncher.anim_set,0,
+small_health.anim_set,0,
+spaceJump.anim_set,0,
+SP_holo.anim_set,0,
+SP_logo.anim_set,0,
+superMissile.anim_set,0,
+superMissile_NOPARTICLE.anim_set,0,
+tencoin.anim_set,0,
+portals.anim_set,0,
+sandlands_crate_bound.anim_set,0,
+sandlands_crate_logbook.anim_set,0,
+B_savestation_animations.anim_set,0,
+Trooper_Talk_Cinematic_External_SPShip.anim_set,0,
+swampcrate.anim_set,0,
+swampcrate_logbook.anim_set,0,
+templekey.anim_set,2,"TempleKey_Sands, Hologram"
+templekey_nosound.anim_set,2,"TempleKey_Sands, Hologram"
+Trans_holo.anim_set,0,
+tur_holo.anim_set,0,
+visor_combat.anim_set,0,
+visor_dark.anim_set,0,
+visor_echo.anim_set,0,
+visor_scan.anim_set,0,
+00gears1.anim_set,0,
+00gears2.anim_set,0,
+00gears3.anim_set,0,
+01_gate.anim_set,0,
+03_keydoor.anim_set,1,newdoor
+04_treads.anim_set,0,
+05_doorGate.anim_set,0,
+05_doorGate_dark.anim_set,0,
+05_locator.anim_set,0,
+05_tread.anim_set,0,
+06_energyShield.anim_set,0,
+06_skiff.anim_set,0,
+06_windmills.anim_set,0,
+07_blastdoor.anim_set,0,
+knobbies.anim_set,0,
+07_Gun.anim_set,0,
+07_GunRevolver.anim_set,0,
+07_machine.anim_set,0,
+platHolo.anim_set,0,
+08_tank_gizmo.anim_set,0,
+elev_Holo_anim.anim_set,0,
+mining_drill.anim_set,0,
+0k_fan.anim_set,0,
+0L_sandpile.anim_set,0,
+10_Crane.anim_set,0,
+RingsAnimation.anim_set,0,
+Bird_Flying.anim_set,0,
+gears.anim_set,0,
+gears_1.anim_set,0,
+gears_2.anim_set,0,
+gears_3.anim_set,0,
+gears_4.anim_set,0,
+grass.anim_set,0,
+00ElevB_fan.anim_set,0,
+Eyes.anim_set,2,"Blue_Eye, Red_eye"
+perch.anim_set,0,
+holo.anim_set,0,
+Swamp_boss_Intro_cocoon.anim_set,0,
+tree.anim_set,0,
+09_swamp_blocker.anim_set,0,
+BackBoost_Animation.anim_set,0,
+Door_Animation.anim_set,0,
+Door_Front_Animation.anim_set,0,
+BothGears_Animation.anim_set,0,
+FrontBoost_Animation.anim_set,0,
+platUrchin.anim_set,0,
+floatingNubs.anim_set,0,
+holo.anim_set,0,
+stick01.anim_set,4,"stick01, stick02, stick03, stick04"
+02_drawbridge.anim_set,0,
+02_MothGateFinal.anim_set,0,
+02_REDFLAG.anim_set,0,
+02_REDFLAG2.anim_set,0,
+03_crate_cable.anim_set,0,
+03_crate_crane_top.anim_set,0,
+03_crate.anim_set,0,
+03_crate_lowering.anim_set,0,
+Radar.anim_set,0,
+dark_platform.anim_set,0,
+couplers.anim_set,0,
+0T_gears_center.anim_set,0,
+0T_gears_ends.anim_set,0,
+0u_elevator.anim_set,0,
+0u_holo.anim_set,0,
+10_Death_EYE.anim_set,0,
+10_FanLarge.anim_set,0,
+10_FanSmall.anim_set,0,
+10_gondola_Holo.anim_set,0,
+10_MBTrack.anim_set,0,
+barrier_door.anim_set,0,
+0P_Cloudlayer.anim_set,0,
+0LBlock_Dark.anim_set,7,"0L_Block_Light, Fatblock_Dark, Fatblock_Light, MediumBlock_Dark, MediumBlock_Light, ShortBlock_Dark, ShortBlock_Light"
+RedGrass_1.anim_set,0,
+02_Temple_Dead_Trooper.anim_set,0,
+03_Temple_Dead_Trooper.anim_set,0,
+04_Temple_Dead_Trooper.anim_set,0,
+05_Temple_Dead_Trooper.anim_set,0,
+0B_Temple_Dead_Trooper.anim_set,0,
+0D_Temple_Dead_Trooper.anim_set,0,
+0E_Temple_Dead_Trooper.anim_set,0,
+portal_test.anim_set,0,
+rift_portal.anim_set,0,
+rift_portal_glow.anim_set,0,
+rift_portal_glow_2.anim_set,0,
+rfit_portal_simple.anim_set,0,
+B_savestation_animations.anim_set,0,
